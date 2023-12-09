@@ -2,10 +2,10 @@ Package: PITO
 Type: Package
 Title: Priority index for herbal medicine (phytomedicine)
 Version: 1.0.0
-Date: 2023-9-7
+Date: 2023-12-9
 Authors@R: c(person("Hai", "Fang", email="fh12355@rjh.com.cn", role=c("aut","cre")))
 Maintainer: Hai Fang <fh12355@rjh.com.cn>
-Depends: R (>= 4.3.0), igraph, ggplot2
+Depends: R (>= 4.3), igraph, ggplot2
 Imports: BiocGenerics, dplyr, forcats, GenomicRanges, ggnetwork, ggrepel, IRanges, magrittr, Matrix, methods, osfr, purrr, readr, stats, stringr, tibble, tidyr, XML, pbapply, curl, ggraph
 Suggests: coin, foreach, ggridges, grid, gridExtra, RColorBrewer, ROCR, ggupset, rtracklayer, Gviz, MASS, dnet, graphics, grDevices, S4Vectors, utils, ggbio, GenomeInfoDb, doParallel, fgsea, scales, supraHex, data.tree, jsonlite
 Description: The PITO package is introduced to support research into the herbal medicine with therapeutic and healing properties, exploring evidence for genetic target prioritisation and herbal drug repurposing.
@@ -77,4 +77,4 @@ Collate:
     'oHEB.r'
     'oAUCurve.r'
 License: GPL-2
-biocViews: SystemsBiology, FunctionalGenomics, GeneTarget, Pathways, Network
+biocViews: SystemsBiology, FunctionalGenomics, GeneTarget, Pathways

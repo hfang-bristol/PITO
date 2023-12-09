@@ -51,7 +51,7 @@ red-yellow-green-cyan-blue-magenta). Alternatively, any
 hyphen-separated HTML color names, e.g. "blue-black-yellow",
 "royalblue-white-sandybrown", "darkgreen-white-darkviolet". A list of
 standard color names can be found in
-\url{http://html-color-codes.info/color-names}}
+\url{https://html-color-codes.info/color-names/index.html}}
 
 \item{x.rotate}{the angle to rotate the x tick labelings. By default,
 it is 60}

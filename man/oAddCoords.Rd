@@ -33,7 +33,7 @@ match, it returns NULL}
 "layout.drl"), "layout_with_gem" (previously "layout.gem"),
 "layout_with_mds", and "layout_as_bipartite". A full explanation of
 these layouts can be found in
-\url{http://igraph.org/r/doc/layout_nicely.html}}
+\url{https://igraph.org/r/doc/layout_nicely.html}}
 
 \item{edge.color.alternative}{two alternative colors for edges within
 the community (grey70 by default) and edges between communities (grey95
