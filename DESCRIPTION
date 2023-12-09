@@ -2,8 +2,8 @@ Package: PITO
 Type: Package
 Title: Priority index for herbal medicine (phytomedicine)
 Version: 1.0.0
-Date: 2023-12-9
-Authors@R: c(person("Hai", "Fang", email="fh12355@rjh.com.cn", role=c("aut","cre")))
+Date: 2023-12-10
+Authors@R: c(person("Hai", "Fang", email="fh12355@rjh.com.cn", role=c("aut","cre")), person("Chaohui","Bao",email="chaohuibao@sjtu.edu.cn",role="aut"))
 Maintainer: Hai Fang <fh12355@rjh.com.cn>
 Depends: R (>= 4.3), igraph, ggplot2
 Imports: BiocGenerics, dplyr, forcats, GenomicRanges, ggnetwork, ggrepel, IRanges, magrittr, Matrix, methods, osfr, purrr, readr, stats, stringr, tibble, tidyr, XML, pbapply, curl, ggraph
